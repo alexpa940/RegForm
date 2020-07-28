@@ -77,7 +77,7 @@ span.input-group-addon i {
 <hr>
 <br>
 
-    <form  class="" name='registration'  method="post" id="ajax_form" action="#" >
+    <form  class="" name='registration'  method="post" id="ajax_form" action="" >
 
       <div class="form-group">
       <label for="name" class="cols-sm-2 control-label">Имя:</label>
@@ -140,9 +140,8 @@ span.input-group-addon i {
 
     </form>
     <div id="result_form"></div> 
-
     <br>
-
+    <br>
     </div>
     </div>
     
